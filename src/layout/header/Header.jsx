@@ -1,15 +1,23 @@
+import { Link } from 'react-router-dom';
+
 const Header = () => {
 	return (
-		<nav className='red darken-4'>
+		<nav className='cyan darken-4'>
 			<div className='container'>
 				<div className='nav-wrapper'>
-					<a href='/' className='brand-logo'>
+					<Link to='/' className='brand-logo'>
 						React Shop
-					</a>
+					</Link>
 					<ul id='nav-mobile' className='right hide-on-med-and-down'>
 						<li>
+							<Link
+								to='/about'>
+								About
+							</Link>
+						</li>
+						<li>
 							<a
-								href='https://github.com/REBORNOFF/react-shop-practice'
+								href='https://github.com/REBORNOFF'
 								target='_blank'
 								rel='noreferrer'
 							>
