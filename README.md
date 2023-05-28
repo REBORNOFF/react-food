@@ -23,22 +23,22 @@ Link to the project - [React-food](https://REBORNOFF.github.io/react-food-practi
 
 # Application Interface
 
-Главная страница
+## Главная страница
 
 ![Application Interface](./src/assets/images/main-page.png)
 
-Страница с категориями
+## Страница с категориями
 
 ![category page](./src/assets/images/category-page.png)
 
-Страница с рецепотом
+## Страница с рецепотом
 
 ![recipe page](./src/assets/images/recipe-page.png)
 
-Поиск
+## Поиск
 
 ![search](./src/assets/images/search.png)
 
-404 страница
+## 404 страница
 
 ![404 page](./src/assets/images/404-page.png)
