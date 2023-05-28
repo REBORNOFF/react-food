@@ -21,8 +21,6 @@ API - [TheMealDB](https://www.themealdb.com/api.php)
 
 Link to the project - [React-food](https://REBORNOFF.github.io/react-food-practice)
 
-# Application Interface
-
 ## Главная страница
 
 ![Application Interface](./src/assets/images/main-page.png)
