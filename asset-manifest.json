@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-food-practice/static/css/main.b1e4bd2f.css",
+    "main.js": "/react-food-practice/static/js/main.a45557be.js",
+    "static/media/404.png": "/react-food-practice/static/media/404.3b0bfd50ed3c112c1882.png",
+    "index.html": "/react-food-practice/index.html",
+    "main.b1e4bd2f.css.map": "/react-food-practice/static/css/main.b1e4bd2f.css.map",
+    "main.a45557be.js.map": "/react-food-practice/static/js/main.a45557be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e4bd2f.css",
+    "static/js/main.a45557be.js"
+  ]
+}
