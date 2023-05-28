@@ -10,12 +10,6 @@ const Header = () => {
 					</Link>
 					<ul id='nav-mobile' className='right hide-on-med-and-down'>
 						<li>
-							<Link
-								to='/about'>
-								About
-							</Link>
-						</li>
-						<li>
 							<a
 								href='https://github.com/REBORNOFF'
 								target='_blank'

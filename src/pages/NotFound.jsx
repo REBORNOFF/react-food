@@ -1,5 +1,7 @@
+import notFoundImg from '../assets/images/404.png';
+
 const NotFound = () => {
-	return <h1>Hello from NotFound</h1>;
+	return <img src={notFoundImg} alt='Not found' />;
 };
 
 export default NotFound;
